@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".algorithm">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="75dp"
+            android:fontFamily="@font/caveat_brush"
+            android:gravity="center"
+            android:text="Types Of Algorithm"
+            android:textAlignment="center"
+            android:textColor="#1E88E5"
+            android:textSize="40sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:fontFamily="@font/caveat_brush"
+            android:text="Graph Algorithms"
+            android:textColor="@color/black"
+            android:textSize="30sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="30dp"
+            android:fontFamily="@font/caveat_brush"
+            android:text="[1]  Breadth First Search (BFS)\n[2]  Depth First Search (DFS)\n[3]  Dijkstra\n[4]  Floyd Warshall\n[5]  Prim\n[6]  Kruskal\n[7]  Topological Sort\n[8]  Johnson’s algorithm\n[9]  Articulation Points in a Graph\n[10] Bridges in a graph"
+            android:textColor="@color/black"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:fontFamily="@font/caveat_brush"
+            android:text="Dynamic Programming"
+            android:textColor="@color/black"
+            android:textSize="30sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="30dp"
+            android:fontFamily="@font/caveat_brush"
+            android:text="[1]  Longest Common Subsequence\n[2]  Longest Increasing Subsequence\n[3]  Edit Distance\n[4]  Minimum Partition\n[5]  Ways to Cover a Distance\n[6]  Longest Path In Matrix\n[7]  Subset Sum Problem\n[8]  Optimal Strategy for a Game\n[9]  Knapsack Problem\n[10] Assembly Line Scheduling"
+            android:textColor="@color/black"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:fontFamily="@font/caveat_brush"
+            android:text="Searching And Sorting"
+            android:textColor="@color/black"
+            android:textSize="30sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="30dp"
+            android:fontFamily="@font/caveat_brush"
+            android:text="[1]  Binary Search\n[2]  Quick Sort\n[3]  Merge Sort\n[4]  Order Statistics\n[5]  KMP algorithm\n[6]  Rabin karp\n[7]  Z’s algorithm\n[8]  Aho Corasick String Matching\n[9]  Counting Sort"
+            android:textColor="@color/black"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:fontFamily="@font/caveat_brush"
+            android:text="Number theory"
+            android:textColor="@color/black"
+            android:textSize="30sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="30dp"
+            android:fontFamily="@font/caveat_brush"
+            android:text="[1]  Set 1 (Introduction and School Method)\n[2]  Set 2 (Fermat Method)\n[3]  Set 3 (Miller–Rabin)\n[4]  Sieve of Eratosthenes\n[5]  Segmented Sieve\n[6]  Wilson’s Theorem\n[7]  Prime Factorisation\n[8]  Pollard’s rho algorithm"
+            android:textColor="@color/black"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:fontFamily="@font/caveat_brush"
+            android:text="Geometrical and Network Flow"
+            android:textColor="@color/black"
+            android:textSize="30sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="30dp"
+            android:fontFamily="@font/caveat_brush"
+            android:text="[1]  Convex Hull\n[2]  Graham Scan\n[3]  Line Intersection\n[4]  Interval Tree\n[5]  Matrix Exponentiation and this\n[6]  Maxflow Ford Furkerson Algo \n[7]  Edmond Karp Implementation\n[8]  Stable Marriage Problem\n[9]  Hopcroft–Karp Algorithm\n[10] Dinic’s algo and e-maxx"
+            android:textColor="@color/black"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:fontFamily="@font/caveat_brush"
+            android:text="Data Structures"
+            android:textColor="@color/black"
+            android:textSize="30sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="20dp"
+            android:fontFamily="@font/caveat_brush"
+            android:text="[1]  Binary Indexed Tree\n[2]  Segment Tree\n[3]  K-D tree\n[4]  Union Find Disjoint Set\n[5]  Tries\n[6]  Suffix array\n[7]  Sparse table\n[8]  Suffix automata\n[9]  Suffix automata II\n[10] LCA and RMQ"
+            android:textColor="@color/black"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+
+    </LinearLayout>
+
+</ScrollView>

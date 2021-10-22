@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Road map of a CSEian</string>
+    <string name="codeblock"><a href="https://www.codeblocks.org">[1] Code::Blocks</a></string>
+    <string name="vscode"><a href="https://code.visualstudio.com">[2] Visual Studio Code</a></string>
+    <string name="OnlineGDB"><a href="https://www.onlinegdb.com">[1] OnlineGDB</a></string>
+    <string name="Programiz"><a href="https://www.programiz.com/c-programming/online-compiler/">[2] Programiz</a></string>
+    <string name="ideone"><a href="https://ideone.com">[3] IDEone</a></string>
+    <string name="codeforses"><a href="https://codeforces.com">[1] Codeforces</a></string>
+    <string name="topcoder"><a href="https://www.topcoder.com/">[2] Topcoder</a></string>
+    <string name="uva"><a href="https://onlinejudge.org">[3] UVa Online Judge</a></string>
+    <string name="eclipse"><a href="https://www.eclipse.org/">Eclipse</a></string>
+    <string name="netbeans"><a href="https://netbeans.apache.org"> Netbeans</a></string>
+    <string name="xampp"><a href="https://www.apachefriends.org"> XAMPP</a></string>
+    <string name="oracle"><a href="https://www.oracle.com/"> Oracle</a></string>
+    <string name="pycharm"><a href="https://www.jetbrains.com/pycharm/"> PyCharm</a></string>
+    <string name="Anaconda"><a href="https://www.anaconda.com/"> Anaconda</a></string>
+    <string name="Laravel"><a href="https://laravel.com/"> Laravel</a></string>
+    <string name="nodepad"><a href="https://notepad-plus-plus.org/downloads/"> Notepad++</a></string>
+    <string name="sublime"><a href="https://www.sublimetext.com"> Sublime Text</a></string>
+    <string name="cisco"><a href="https://www.netacad.com/courses/packet-tracer"> Cisco packet tracer</a></string>
+    <string name="linux"><a href="https://www.linux.org/"> Linux</a></string>
+    <string name="arduino"><a href="https://www.arduino.cc/"> Arduino</a></string>
+    <string name="MATLAB"><a href="https://www.mathworks.com/"> MATLAB</a></string>
+</resources>
